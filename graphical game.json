@@ -1403,6 +1403,29 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
           "name": "Rubik-Regular.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Ground2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/e3dd02bd62d7567f06253716b7c9ffb4cb05bea70b89ed17d6700a1a0ac7dfd1_tiled_Ground2.png",
+          "name": "tiled_Ground2.png"
+        }
+      },
+      {
+        "file": "Powerup 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Powerup 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3673257545058834,
+    "zoomFactor": 0.5117784035210206,
     "windowMask": false
   },
   "objectsGroups": [
@@ -2861,6 +2861,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Ground2",
+      "persistentUuid": "dce6eb82-088f-424f-bf95-c03dd86079f0",
+      "width": 0,
+      "x": 32,
+      "y": 544,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -4084,6 +4099,17 @@
         "characterSize": 40,
         "color": "0;0;0"
       }
+    },
+    {
+      "assetStoreId": "527f1ebb0b788a709d10bd09428ee9249eb12cff04514d868b4760a036deeb95",
+      "height": 128,
+      "name": "Ground2",
+      "texture": "tiled_Ground2.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -4150,6 +4176,9 @@
       },
       {
         "objectName": "endDayButton"
+      },
+      {
+        "objectName": "Ground2"
       }
     ]
   },
@@ -4195,6 +4224,19 @@
             "connectButton",
             "=",
             "ScreenWidth()/2"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "Powerup 2.wav",
+            "",
+            "",
+            "20",
+            ""
           ]
         }
       ],
