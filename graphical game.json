@@ -1412,7 +1412,32 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "DayCounter",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Food",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Water",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Materials",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -1421,6 +1446,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/objectpickingtools"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/buttonstates"
