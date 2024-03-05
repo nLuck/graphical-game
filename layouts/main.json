@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.4950840073748905,
+    "zoomFactor": 0.3673257545058834,
     "windowMask": false
   },
   "objectsGroups": [
@@ -43,25 +43,25 @@
     },
     {
       "folded": true,
-      "name": "Food",
-      "type": "number",
-      "value": 0
-    },
-    {
-      "folded": true,
-      "name": "Water",
-      "type": "number",
-      "value": 0
-    },
-    {
-      "folded": true,
-      "name": "Materials",
-      "type": "number",
-      "value": 0
-    },
-    {
-      "folded": true,
       "name": "MouseJointID",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "engeneeringPoints",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "agriculturePoints",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "sciencePoints",
       "type": "number",
       "value": 0
     }
@@ -72,12 +72,12 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
-      "name": "NewText",
+      "name": "statText",
       "persistentUuid": "9894bc72-55c2-4da2-8a2c-d8cdf03fe493",
       "width": 0,
       "x": 70,
       "y": 480,
-      "zOrder": 5,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -153,7 +153,7 @@
       "locked": true,
       "name": "Wall",
       "persistentUuid": "86bc1170-3646-47aa-b55d-dd7c8586ed2e",
-      "width": 64,
+      "width": 32,
       "x": 0,
       "y": 96,
       "zOrder": 1,
@@ -170,8 +170,8 @@
       "locked": true,
       "name": "Wall",
       "persistentUuid": "479400a3-1aeb-461e-80a5-bd2c03e5a136",
-      "width": 64,
-      "x": 1216,
+      "width": 32,
+      "x": 1248,
       "y": 96,
       "zOrder": 1,
       "numberProperties": [],
@@ -2792,12 +2792,72 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
-      "name": "combineButton",
+      "name": "connectButton",
       "persistentUuid": "5f7ddbf8-be97-47c6-8e4f-8f57df641042",
       "width": 0,
       "x": 512,
-      "y": 608,
+      "y": 640,
       "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "endDayButton",
+      "persistentUuid": "6760f8ff-2b2c-4746-b2af-ba8efa983b39",
+      "width": 0,
+      "x": 1024,
+      "y": 32,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "pointText",
+      "persistentUuid": "498d3746-c8ae-4784-bc1d-bb2879df3c7e",
+      "width": 0,
+      "x": 70,
+      "y": 278,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "selectText",
+      "persistentUuid": "57b30ae2-5016-421a-82d9-2db82491cd98",
+      "width": 0,
+      "x": 64,
+      "y": 128,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "dayText",
+      "persistentUuid": "5e8220d9-bcc7-4748-ac53-ea27ad5cf7b6",
+      "width": 0,
+      "x": 928,
+      "y": 32,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2826,6 +2886,12 @@
         {
           "folded": true,
           "name": "Agriculture",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Science",
           "type": "number",
           "value": 0
         }
@@ -2925,7 +2991,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "NewText",
+      "name": "statText",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -2933,9 +2999,9 @@
       "effects": [],
       "behaviors": [],
       "string": "Text",
-      "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+      "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 60,
+      "characterSize": 40,
       "color": {
         "b": 0,
         "g": 0,
@@ -2956,9 +3022,9 @@
         "smoothed": true,
         "underlined": false,
         "text": "Text",
-        "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+        "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
-        "characterSize": 60,
+        "characterSize": 40,
         "color": "0;0;0"
       }
     },
@@ -3199,6 +3265,18 @@
           "name": "Engineering",
           "type": "number",
           "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Agriculture",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Science",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [
@@ -3377,7 +3455,7 @@
     },
     {
       "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
-      "name": "combineButton",
+      "name": "connectButton",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -3789,6 +3867,223 @@
           "width": 192
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "collider",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    },
+    {
+      "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
+      "name": "endDayButton",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 6,
+        "BottomPadding": 24,
+        "TopPadding": 24,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Hovered.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Idle.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "End Day",
+          "font": "mononoki-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 26,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "End Day",
+            "font": "mononoki-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 26,
+            "color": "255;255;255"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Pressed.png",
+          "tiled": true,
+          "topMargin": 22,
+          "width": 192
+        }
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "selectText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "mononoki-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "mononoki-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "pointText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "mononoki-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "mononoki-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "dayText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "mononoki-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "mononoki-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -3796,6 +4091,9 @@
     "children": [
       {
         "objectName": "survivor"
+      },
+      {
+        "objectName": "collider"
       },
       {
         "objectName": "engineer"
@@ -3807,7 +4105,16 @@
         "objectName": "Wall"
       },
       {
-        "objectName": "NewText"
+        "objectName": "statText"
+      },
+      {
+        "objectName": "selectText"
+      },
+      {
+        "objectName": "dayText"
+      },
+      {
+        "objectName": "pointText"
       },
       {
         "objectName": "foodText"
@@ -3839,7 +4146,10 @@
         ]
       },
       {
-        "objectName": "combineButton"
+        "objectName": "connectButton"
+      },
+      {
+        "objectName": "endDayButton"
       }
     ]
   },
@@ -3859,6 +4169,16 @@
       "actions": [
         {
           "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "DayCounter",
+            "=",
+            "10"
+          ]
+        },
+        {
+          "type": {
             "value": "ModVarScene"
           },
           "parameters": [
@@ -3869,40 +4189,10 @@
         },
         {
           "type": {
-            "value": "ModVarScene"
+            "value": "SetCenterX"
           },
           "parameters": [
-            "Food",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVarScene"
-          },
-          "parameters": [
-            "Water",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVarScene"
-          },
-          "parameters": [
-            "Materials",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreX"
-          },
-          "parameters": [
-            "combineButton",
+            "connectButton",
             "=",
             "ScreenWidth()/2"
           ]
@@ -3932,47 +4222,166 @@
           "type": "BuiltinCommonInstructions::ForEach",
           "object": "objects",
           "conditions": [],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "value": "Physics2::SetStatic"
-              },
-              "parameters": [
-                "objects",
-                "Physics2"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Physics2::SetStatic"
+                  },
+                  "parameters": [
+                    "objects",
+                    "Physics2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EffectCapability::EffectBehavior::EnableEffect"
+                  },
+                  "parameters": [
+                    "objects",
+                    "Effect",
+                    "\"Select\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "objects",
+                    "=",
+                    "1"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "EffectCapability::EffectBehavior::EnableEffect"
-              },
-              "parameters": [
-                "objects",
-                "Effect",
-                "\"Select\"",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "objects",
+                    "Engineering",
+                    "=",
+                    "RandomInRange(1, 3)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "objects",
+                    "Agriculture",
+                    "=",
+                    "RandomInRange(1, 4)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "objects",
+                    "Science",
+                    "=",
+                    "RandomInRange(1, 2)"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "objects",
-                "Engineering",
-                "=",
-                "RandomInRange(0, 3)"
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "collider"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "collider",
+                    "50",
+                    "50",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "collider",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinkedObjects::LinkObjects"
+                  },
+                  "parameters": [
+                    "",
+                    "objects",
+                    "collider"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "objects",
-                "Agriculture",
-                "=",
-                "RandomInRange(0, 4)"
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "LinkedObjects::PickObjectsLinkedTo"
+                  },
+                  "parameters": [
+                    "",
+                    "collider",
+                    "objects",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "collider",
+                    "=",
+                    "objects.X()",
+                    "=",
+                    "objects.Y()"
+                  ]
+                }
               ]
             }
           ]
@@ -3984,7 +4393,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "select and deselect",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4169,6 +4577,84 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "objects",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "statText",
+                "Text",
+                "=",
+                "\"Engineering: \" + ToString(objects.Variable(Engineering)) +\n\"\nAgriculture: \" + ToString(objects.Variable(Agriculture)) +\n\"\nScience: \" + ToString(objects.Variable(Science))"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "statText",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Not"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "objects",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "statText"
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -4323,7 +4809,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "combine button",
+      "name": "connect button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -4347,8 +4833,7 @@
                 "value": "Cache"
               },
               "parameters": [
-                "combineButton",
-                ""
+                "connectButton"
               ]
             }
           ]
@@ -4373,7 +4858,7 @@
                 "value": "Montre"
               },
               "parameters": [
-                "combineButton",
+                "connectButton",
                 ""
               ]
             }
@@ -4387,15 +4872,9 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
-                "combineButton",
+                "connectButton",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
           "actions": [],
@@ -4412,6 +4891,12 @@
                     "isSelected",
                     "True"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -4421,7 +4906,7 @@
                   },
                   "parameters": [
                     "objects",
-                    ""
+                    "objects"
                   ]
                 },
                 {
@@ -4431,9 +4916,42 @@
                   "parameters": [
                     "",
                     "engineer",
-                    "ScreenWidth()/2",
-                    "ScreenHeight()/2",
+                    "RandomInRange(64, 1152)",
+                    "RandomInRange(96, 640)",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "engineer",
+                    "Engineering",
+                    "=",
+                    "RandomInRange(5, 8)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "engineer",
+                    "Agriculture",
+                    "=",
+                    "RandomInRange(0, 1)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "engineer",
+                    "Science",
+                    "=",
+                    "RandomInRange(2, 3)"
                   ]
                 },
                 {
@@ -4472,6 +4990,16 @@
                         "\"Select\"",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "objects",
+                        "=",
+                        "1"
+                      ]
                     }
                   ]
                 }
@@ -4481,6 +5009,175 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "end day button",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "endDayButton",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "DayCounter",
+            "-",
+            "1"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "objects",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "engeneeringPoints",
+                "+",
+                "objects.Engineering"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "agriculturePoints",
+                "+",
+                "objects.Agriculture"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "sciencePoints",
+                "+",
+                "objects.Science"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Materials",
+                "+",
+                "round(engeneeringPoints * 2)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Food",
+                "+",
+                "round(agriculturePoints / 2)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Water",
+                "+",
+                "round(sciencePoints)"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "engeneeringPoints",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "agriculturePoints",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "sciencePoints",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "colorB": 228,
@@ -4564,10 +5261,32 @@
             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
           },
           "parameters": [
-            "NewText",
+            "selectText",
             "Text",
             "=",
             "ToString(Variable(numSelected))"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "pointText",
+            "Text",
+            "=",
+            "\"EngP: \" + ToString(Variable(engeneeringPoints)) +\n\"\nAgrP: \" + ToString(Variable(agriculturePoints)) +\n\"\nSciP: \" + ToString(Variable(sciencePoints))"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "dayText",
+            "Text",
+            "=",
+            "ToString(GlobalVariable(DayCounter))"
           ]
         }
       ]
