@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.47893418845352626,
+    "zoomFactor": 0.3673257545058834,
     "windowMask": false
   },
   "objectsGroups": [
@@ -4809,7 +4809,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "combine button",
+      "name": "connect button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
