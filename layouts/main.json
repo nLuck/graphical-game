@@ -285,6 +285,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "User Interface",
+      "name": "creditsText",
+      "persistentUuid": "c78eb2e7-1d90-42de-8aa2-393ecf5cff21",
+      "width": 0,
+      "x": -860,
+      "y": 548,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -361,7 +376,7 @@
       ],
       "animations": [
         {
-          "name": "blueThing",
+          "name": "assets\\Female Character 2_Walking Down_1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -371,7 +386,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite",
+                  "image": "assets\\Female Character 2_Walking Down_1",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -387,19 +402,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 8,
+                        "y": 4
                       },
                       {
-                        "x": 64,
-                        "y": 0
+                        "x": 56,
+                        "y": 4
                       },
                       {
-                        "x": 64,
+                        "x": 56,
                         "y": 64
                       },
                       {
-                        "x": 0,
+                        "x": 8,
                         "y": 64
                       }
                     ]
@@ -663,17 +678,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "snapPoint",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": []
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "engineer",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -744,7 +748,7 @@
       ],
       "animations": [
         {
-          "name": "yellowting",
+          "name": "assets\\Male Character 10_Walking Down_1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -754,7 +758,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "yellowting",
+                  "image": "assets\\Male Character 10_Walking Down_1",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -770,19 +774,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 8,
+                        "y": 4
                       },
                       {
-                        "x": 64,
-                        "y": 0
+                        "x": 56,
+                        "y": 4
                       },
                       {
-                        "x": 64,
+                        "x": 56,
                         "y": 64
                       },
                       {
-                        "x": 0,
+                        "x": 8,
                         "y": 64
                       }
                     ]
@@ -1291,17 +1295,6 @@
           "width": 192
         }
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "collider",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": []
     },
     {
       "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
@@ -2995,6 +2988,47 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "creditsText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "GDevelop\nfleurman",
+      "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+      "textAlignment": "left",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "GDevelop\nfleurman",
+        "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+        "textAlignment": "left",
+        "characterSize": 60,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -3004,13 +3038,7 @@
         "objectName": "survivor"
       },
       {
-        "objectName": "collider"
-      },
-      {
         "objectName": "engineer"
-      },
-      {
-        "objectName": "snapPoint"
       },
       {
         "objectName": "Wall"
@@ -3035,6 +3063,9 @@
       },
       {
         "objectName": "materialsText"
+      },
+      {
+        "objectName": "creditsText"
       },
       {
         "folderName": "button",
@@ -3231,91 +3262,6 @@
                     "Science",
                     "=",
                     "RandomInRange(1, 2)"
-                  ]
-                }
-              ]
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "collider"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "collider",
-                    "50",
-                    "50",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "collider",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "LinkedObjects::LinkObjects"
-                  },
-                  "parameters": [
-                    "",
-                    "objects",
-                    "collider"
-                  ]
-                }
-              ]
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "LinkedObjects::PickObjectsLinkedTo"
-                  },
-                  "parameters": [
-                    "",
-                    "collider",
-                    "objects",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "collider",
-                    "=",
-                    "objects.X()",
-                    "=",
-                    "objects.Y()"
                   ]
                 }
               ]
@@ -3624,7 +3570,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "click nad drag",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4089,6 +4034,39 @@
                 "Water",
                 "+",
                 "round(sciencePoints)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "materialsText",
+                "Text",
+                "=",
+                "\"Materials: \" + ToString(GlobalVariable(Materials))"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "foodText",
+                "Text",
+                "=",
+                "\"Food: \" + ToString(GlobalVariable(Food))"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "waterText",
+                "Text",
+                "=",
+                "\"Water: \" + ToString(GlobalVariable(Water))"
               ]
             }
           ]

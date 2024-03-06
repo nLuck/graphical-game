@@ -1917,6 +1917,42 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/d532129e8fa397d11dfd750a092df1945d5ddd921ea7a1a2259b571b2a91a48f_Male Character 5_Walking Up_3.png",
           "name": "Male Character 5_Walking Up_3.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Female Character 2_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Female Character 2_Walking Down_1",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Male Character 10_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Male Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Male Character 10_Walking Down_1",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
