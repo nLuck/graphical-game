@@ -1426,6 +1426,29 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Ground3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/d78d8a615c6d4d6715034e4380188a3062d75caebc382527332e2be3dcfcaf05_tiled_Ground3.png",
+          "name": "tiled_Ground3.png"
+        }
+      },
+      {
+        "file": "videogamemusic.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "videogamemusic.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
