@@ -1423,7 +1423,7 @@
         "metadata": "",
         "name": "Powerup 2.wav",
         "preloadAsMusic": false,
-        "preloadAsSound": false,
+        "preloadAsSound": true,
         "preloadInCache": false,
         "userAdded": true
       },
