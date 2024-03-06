@@ -676,6 +676,7 @@
       ]
     },
     {
+
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "engineer",
@@ -1560,6 +1561,7 @@
       "name": "FemaleCharacter2",
       "type": "Sprite",
       "updateIfNotVisible": false,
+
       "variables": [],
       "effects": [],
       "behaviors": [],
@@ -4055,6 +4057,39 @@
                 "+",
                 "round(sciencePoints)"
               ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "materialsText",
+                "Text",
+                "=",
+                "\"Materials: \" + ToString(GlobalVariable(Materials))"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "foodText",
+                "Text",
+                "=",
+                "\"Food: \" + ToString(GlobalVariable(Food))"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "waterText",
+                "Text",
+                "=",
+                "\"Water: \" + ToString(GlobalVariable(Water))"
+              ]
             }
           ]
         },
@@ -4191,7 +4226,13 @@
             "=",
             "ToString(Variable(numSelected))"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
         {
           "type": {
             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
@@ -4202,7 +4243,13 @@
             "=",
             "\"EngP: \" + ToString(Variable(engeneeringPoints)) +\n\"\nAgrP: \" + ToString(Variable(agriculturePoints)) +\n\"\nSciP: \" + ToString(Variable(sciencePoints))"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
         {
           "type": {
             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
