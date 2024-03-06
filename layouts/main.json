@@ -197,2598 +197,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "466c1e17-a9a0-483b-a2b3-e52141ac905f",
-      "width": 64,
-      "x": 64,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b6f655d2-262d-486e-ae8d-a453b8bca4d9",
-      "width": 64,
-      "x": 128,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3d89ad03-c1b7-47c6-bb06-43381044ead3",
-      "width": 64,
-      "x": 64,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "233640c3-8275-4706-bbb8-d41b2a1e1eed",
-      "width": 64,
-      "x": 128,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "46792687-43a1-4617-b85a-75d9c4b4d179",
-      "width": 64,
-      "x": 64,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "50eeef3c-0d0c-4701-a6ec-79f7d00bcc57",
-      "width": 64,
-      "x": 128,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "dc6e69cd-02e9-48fa-bf7b-ddad4cefb4cb",
-      "width": 64,
-      "x": 192,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b0bffa50-ff7b-45f0-8251-209503d95a1f",
-      "width": 64,
-      "x": 256,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "93fc310f-50f9-4025-9b62-4c0f44b5d25a",
-      "width": 64,
-      "x": 192,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "08fe4098-d93d-4cfa-9a27-0d00aa62fb85",
-      "width": 64,
-      "x": 256,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "72ddd4d2-a64b-4eaf-bc47-6f7c5efc701f",
-      "width": 64,
-      "x": 192,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "e6d9ec07-6f50-463f-a3d9-d8e15d7ea47d",
-      "width": 64,
-      "x": 256,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a5822186-ee13-4c94-a847-cb29226d1b12",
-      "width": 64,
-      "x": 320,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "21935834-d40b-4baf-ac36-261e34ea46c9",
-      "width": 64,
-      "x": 384,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "41d52662-db8c-4799-9076-2c79ba6a93bc",
-      "width": 64,
-      "x": 320,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ae729d19-edbe-4671-b5b4-b010e8006ae6",
-      "width": 64,
-      "x": 384,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6639af3e-c5d8-456e-84f5-fa58b2e70ffe",
-      "width": 64,
-      "x": 320,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "37e59ae0-0624-4465-8a8d-5a7a5e5babda",
-      "width": 64,
-      "x": 384,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "97e35402-1212-4151-b9a2-414e6ef1f29c",
-      "width": 64,
-      "x": 64,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "2f5d090f-acbb-412d-9a02-81e1f65f8bd3",
-      "width": 64,
-      "x": 128,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "4510ddc0-0a5f-4267-94ae-aed95f7a08c8",
-      "width": 64,
-      "x": 192,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "eb93dcd6-fff7-4357-ac51-fb1279c8112d",
-      "width": 64,
-      "x": 256,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "4f1a177e-aec5-466f-bff4-829c95baac74",
-      "width": 64,
-      "x": 320,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ccb7d0a2-6d5a-40e5-8f87-dafd4fa6a4e2",
-      "width": 64,
-      "x": 384,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c5e38886-acb4-4cb3-8214-ef7eb4c23060",
-      "width": 64,
-      "x": 384,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ee0463d1-5a02-4dbd-b31f-d8609a4c89fa",
-      "width": 64,
-      "x": 320,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "42bbc4b1-124a-4649-be8d-7045ac2fc292",
-      "width": 64,
-      "x": 256,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ee10cfed-1b20-4170-9eb2-ddea7de1f38b",
-      "width": 64,
-      "x": 192,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "af4c1f93-0ab7-4f86-b56b-2926dc09da8c",
-      "width": 64,
-      "x": 128,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "231362a0-cea3-401e-8755-b06422ae936d",
-      "width": 64,
-      "x": 64,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c388e126-fd0c-473f-ae50-f47c732f76c9",
-      "width": 64,
-      "x": 64,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3d887176-77dc-451c-ad23-d20f04af2735",
-      "width": 64,
-      "x": 128,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "aeda5d40-351e-4e41-bcf6-ae926c297f40",
-      "width": 64,
-      "x": 192,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "76dc441c-2dbc-4e9b-9437-6d995bf29d20",
-      "width": 64,
-      "x": 256,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c2d33248-7715-4874-b147-43262c11393f",
-      "width": 64,
-      "x": 320,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "92d77971-56a2-4939-9598-215f06d5501a",
-      "width": 64,
-      "x": 384,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "65c63ca3-015b-4e8c-9bb1-c994ee3c8623",
-      "width": 64,
-      "x": 64,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f4540549-7505-4ce9-88c2-0b2fe536f87b",
-      "width": 64,
-      "x": 128,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ca10563a-00e0-4d42-87dd-04d6cdc317f9",
-      "width": 64,
-      "x": 192,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "4efb20d5-cff2-45ee-8bec-ca24c902110a",
-      "width": 64,
-      "x": 256,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3dc6c862-e1f6-497c-97f1-427dcfe09f1c",
-      "width": 64,
-      "x": 320,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3e4281b0-65c2-49fd-9ba7-9466e17fd451",
-      "width": 64,
-      "x": 384,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "4daad887-35d5-49b8-8a44-f6e20d76612a",
-      "width": 64,
-      "x": 384,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "d7cc880d-8791-43c7-993a-72eb063462eb",
-      "width": 64,
-      "x": 320,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5a0b75be-51b0-41a0-b14d-a196eba42f79",
-      "width": 64,
-      "x": 256,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b3b0c7a3-9e42-4a9a-aaee-4a7045c8d7de",
-      "width": 64,
-      "x": 192,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "35819da9-269e-41f9-a3f5-2dfcebc2a29f",
-      "width": 64,
-      "x": 128,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "8f55cd5d-3685-44d3-a10b-cc29364d2d42",
-      "width": 64,
-      "x": 64,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "fb33214d-46ce-4eae-81ec-81a7aee02846",
-      "width": 64,
-      "x": 64,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "15b16ff8-2eb1-4ba7-84ff-3aed214ba2dc",
-      "width": 64,
-      "x": 128,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b170def3-cf50-4095-b814-c2bcce0190ab",
-      "width": 64,
-      "x": 192,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "1f4d4fbb-1e9c-4742-8758-b52453b88a9a",
-      "width": 64,
-      "x": 256,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "12525b76-e9b4-4114-b890-fcc57663d2d6",
-      "width": 64,
-      "x": 320,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5041137e-d6ab-47f2-9d5c-5ae903d006ca",
-      "width": 64,
-      "x": 384,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f1aeb909-d519-497b-ab70-d825b1fc3448",
-      "width": 64,
-      "x": 448,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "bbc6e121-936a-4867-bbaa-0d9a678eaf85",
-      "width": 64,
-      "x": 512,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a69b7c96-c83f-42a0-80ea-e8f80e556ca6",
-      "width": 64,
-      "x": 576,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "fcdd9c61-6ba9-4279-ba27-c6edc8b0deb0",
-      "width": 64,
-      "x": 640,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "53344dfb-404b-458f-80c8-df9b57f4bae2",
-      "width": 64,
-      "x": 704,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "93847d2b-749b-42de-9c20-536ad4cff794",
-      "width": 64,
-      "x": 768,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c8d99631-65e6-4969-85ff-0b14397a4fa1",
-      "width": 64,
-      "x": 768,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "803ef6dd-d9de-47cd-ab4d-5c69b7dd2f22",
-      "width": 64,
-      "x": 704,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "01c9657b-7ff8-49e6-84ba-a232200583e1",
-      "width": 64,
-      "x": 640,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5966c2fa-b612-4f03-8f59-cba1beb00a98",
-      "width": 64,
-      "x": 576,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6fd4cdb4-259c-4f69-b891-b5549e0e0356",
-      "width": 64,
-      "x": 512,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "bc594dc7-4f5f-4649-b4de-64c1c5bd4846",
-      "width": 64,
-      "x": 448,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "bce16040-f88b-4db5-b617-e226e97426ed",
-      "width": 64,
-      "x": 448,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b40e87d1-ae2f-4f99-bf42-c8a6f340b762",
-      "width": 64,
-      "x": 512,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5ddc0569-f9ba-450b-bb77-14cb7760ff27",
-      "width": 64,
-      "x": 576,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5769c80e-1fff-493d-b6c1-8ee25ec813e0",
-      "width": 64,
-      "x": 640,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "59c9935f-89a5-4d88-8ece-47d4a555738a",
-      "width": 64,
-      "x": 704,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "83c45df8-8ae9-4588-a1d6-91241ab59c86",
-      "width": 64,
-      "x": 768,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "101a3403-453d-4151-8d8d-68b2e59c89c1",
-      "width": 64,
-      "x": 448,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c5e1d4fa-ad34-4214-a175-9b4e88adc414",
-      "width": 64,
-      "x": 512,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f79ef1d0-0823-4ed7-a77c-f88065f2fce9",
-      "width": 64,
-      "x": 576,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c65aad9f-5953-4792-88ca-80b723f07cfe",
-      "width": 64,
-      "x": 640,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "69981513-f735-4f68-94af-623da6eefb11",
-      "width": 64,
-      "x": 704,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "2ead0c87-c8e7-4535-931a-06ca8ddda00a",
-      "width": 64,
-      "x": 768,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "7e8e6e5c-c859-490e-be18-e1ff67818b85",
-      "width": 64,
-      "x": 768,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "1a3872b5-d637-420f-b2ea-7de67a0ef042",
-      "width": 64,
-      "x": 704,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "e228ad72-7a1c-46cc-acb7-718407a897fc",
-      "width": 64,
-      "x": 640,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "0c264d36-752a-4aa1-a57e-2bd6903f5078",
-      "width": 64,
-      "x": 576,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ae379844-2a39-4579-9315-093fccbaa429",
-      "width": 64,
-      "x": 512,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c12bbe14-1c06-4046-94f4-f49d90763809",
-      "width": 64,
-      "x": 448,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a93a8124-555e-493d-85e5-d2d73f0c0e52",
-      "width": 64,
-      "x": 448,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ea7d7b5f-383f-475b-b637-695f3f408617",
-      "width": 64,
-      "x": 512,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c1ad5fee-71cc-4824-a556-ee89e03cded8",
-      "width": 64,
-      "x": 576,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "49e04b3f-7299-40e2-b160-e4e03cdb93bc",
-      "width": 64,
-      "x": 640,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "5cf04a31-d644-468d-9fa4-cab2441a9f10",
-      "width": 64,
-      "x": 704,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "4ab1e9e4-9e5c-4bfd-93d6-474ad43a16c2",
-      "width": 64,
-      "x": 768,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "0c5d5f17-1c3c-4cff-9fd1-f624048ddfc9",
-      "width": 64,
-      "x": 448,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "d07c67cb-eebd-4b5f-99a9-ee71d39e2af8",
-      "width": 64,
-      "x": 512,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "20a2d218-2f6e-45f3-9e52-7dcb6698f3a3",
-      "width": 64,
-      "x": 576,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "90c2cdc9-b016-4d65-88eb-006ad8a8ae9c",
-      "width": 64,
-      "x": 640,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "e7945322-995e-4235-b837-536f4a1960bd",
-      "width": 64,
-      "x": 704,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3da9e0fa-3d51-4f72-884d-f75554a8647e",
-      "width": 64,
-      "x": 768,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ca539bb1-4762-4563-b149-df77799ef3cd",
-      "width": 64,
-      "x": 768,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c2cb11e2-a474-41f9-a8d6-deda59109aa5",
-      "width": 64,
-      "x": 704,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "8f2095e5-c2c4-4ee0-8430-d31173260096",
-      "width": 64,
-      "x": 640,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ba895bf9-7f37-48d9-b5bc-4380a5910417",
-      "width": 64,
-      "x": 576,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b4eea13c-9221-4ae2-9808-405c22d2f6d1",
-      "width": 64,
-      "x": 512,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6d6233dd-907b-4e30-a450-94bf5c4c6bf8",
-      "width": 64,
-      "x": 448,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "47409ac2-927c-4dba-a24a-0e5f1bf2734a",
-      "width": 64,
-      "x": 448,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f4fdf9fc-b930-4325-a8e1-f02fa86357df",
-      "width": 64,
-      "x": 512,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "12c3e4be-85f5-42e7-ba78-0ea3c0ac7619",
-      "width": 64,
-      "x": 576,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "e55b5a15-55ad-420c-94cc-4afce0bcda31",
-      "width": 64,
-      "x": 640,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6908135d-7ef4-4b6e-983a-1b1519a6719d",
-      "width": 64,
-      "x": 704,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "db77253b-fc49-4f20-8532-204f5f2b59db",
-      "width": 64,
-      "x": 768,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "8150f1d2-01a8-42ce-bcd8-ac40e2c0f4e9",
-      "width": 64,
-      "x": 832,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ee393a09-a3e8-42b3-969d-c681ddb298c1",
-      "width": 64,
-      "x": 896,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a4307f27-39ee-408a-802b-be21f403c87d",
-      "width": 64,
-      "x": 960,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3a13eeb6-22c9-431a-ad5b-f3cf1f06694b",
-      "width": 64,
-      "x": 1024,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "eeba6f95-3d07-4a1a-bf87-cde17ac1f13a",
-      "width": 64,
-      "x": 1088,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "da0b4409-0e6a-4ea3-b8be-19aa06614f4b",
-      "width": 64,
-      "x": 1152,
-      "y": 832,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "74935517-fc89-41cb-8a7c-8b1ea652c2ba",
-      "width": 64,
-      "x": 1152,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "e5b7c7e8-9cb4-44bf-b090-80622dba5d73",
-      "width": 64,
-      "x": 1088,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "cd69d275-5622-42e5-a7ea-cd194372e9a7",
-      "width": 64,
-      "x": 1024,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6533fae1-0ca0-4490-b8ca-bbbcbf748d98",
-      "width": 64,
-      "x": 960,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "18e23b1f-765a-430c-874a-4267df228953",
-      "width": 64,
-      "x": 896,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "70f16fcf-a99c-4a0d-823c-e5dc31e97165",
-      "width": 64,
-      "x": 832,
-      "y": 896,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "6a6c418d-c449-42df-a102-f0f6399791d1",
-      "width": 64,
-      "x": 832,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "9d4855dd-be21-4465-b217-00d4e142a151",
-      "width": 64,
-      "x": 896,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "8f258b69-1093-49e5-b305-a9fcd21f724b",
-      "width": 64,
-      "x": 960,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "fed01de8-410f-431e-ac05-c52e88ce1010",
-      "width": 64,
-      "x": 1024,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "d44d024b-9325-4b0d-9904-8dd313f76698",
-      "width": 64,
-      "x": 1088,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "2a8d2766-8970-4de1-bee0-02f244829df5",
-      "width": 64,
-      "x": 1152,
-      "y": 960,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c98154ae-ea0c-41bf-877f-bf148dfa091e",
-      "width": 64,
-      "x": 832,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "bde6ca45-972e-4b37-9614-666be40b5cbc",
-      "width": 64,
-      "x": 896,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3b08c0c0-608c-4c30-9259-63a2b11c8a72",
-      "width": 64,
-      "x": 960,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a66fd514-d5e5-4c56-94cc-9830010d9f9f",
-      "width": 64,
-      "x": 1024,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "13477421-f10b-4ba5-90b1-30dc0a192f79",
-      "width": 64,
-      "x": 1088,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "0f0d2caf-d516-4eec-9825-ade108d810e9",
-      "width": 64,
-      "x": 1152,
-      "y": 1024,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "9d2234eb-b61a-4e77-90de-d24ddf190f54",
-      "width": 64,
-      "x": 1152,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "bbafaaf6-2c57-4b90-b640-911dd33c1d71",
-      "width": 64,
-      "x": 1088,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f7fc1b11-33f2-4866-b649-b5c10f65d212",
-      "width": 64,
-      "x": 1024,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "7fd890ed-7d58-48a4-990d-1aba6a824e97",
-      "width": 64,
-      "x": 960,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "af764975-627d-487b-a384-c2b07cbf0575",
-      "width": 64,
-      "x": 896,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "ac6c44b5-fb1d-48a2-a852-d9f2a4b3f9ef",
-      "width": 64,
-      "x": 832,
-      "y": 1088,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3e95f5f6-ae55-4991-958d-3994742c433f",
-      "width": 64,
-      "x": 832,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "a34a8d3a-bacd-4d00-987e-0c156f7913dd",
-      "width": 64,
-      "x": 896,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "01a078a7-f43a-458e-8780-ebbff69f0cdb",
-      "width": 64,
-      "x": 960,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "93135bde-0b5f-4cb3-baa2-7178c7963880",
-      "width": 64,
-      "x": 1024,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "aa424497-99f3-47dc-9c55-901381b462ca",
-      "width": 64,
-      "x": 1088,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "b1007da6-e970-498c-b067-fe5cfc7a4c2f",
-      "width": 64,
-      "x": 1152,
-      "y": 1152,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "9c0d44c0-835a-455e-a3b1-c683f4f5a34a",
-      "width": 64,
-      "x": 832,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "26f6cc4e-7853-491e-89a5-0309e559b931",
-      "width": 64,
-      "x": 896,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "184c44b1-102e-44d7-b38c-c9d920a3ee1a",
-      "width": 64,
-      "x": 960,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "9a65ec24-e990-4dfb-a28e-058c8d88f51d",
-      "width": 64,
-      "x": 1024,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c2d17db8-65e8-4105-bb58-033c22ce222a",
-      "width": 64,
-      "x": 1088,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f62540ba-7590-4245-936c-65bdc95d2538",
-      "width": 64,
-      "x": 1152,
-      "y": 1216,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "88ba3853-a498-47fa-83b9-7f6bdd6425fc",
-      "width": 64,
-      "x": 1152,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "54a35017-1fba-40fd-9f7f-8b4e4a385aeb",
-      "width": 64,
-      "x": 1088,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "cd09b230-244e-44e7-8485-a0acc55bcae1",
-      "width": 64,
-      "x": 1024,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "11b6fe9b-444f-4166-bd94-07060274438d",
-      "width": 64,
-      "x": 960,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "33ce9066-2052-41a3-85cc-088f31af24e8",
-      "width": 64,
-      "x": 896,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "27f0238a-e14c-4669-884c-9c519a2a9770",
-      "width": 64,
-      "x": 832,
-      "y": 1280,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "feaf5584-c6e3-4373-b839-4e70228ed248",
-      "width": 64,
-      "x": 832,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "68b024f4-cb21-48ea-87e2-6874c7233711",
-      "width": 64,
-      "x": 896,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "c645b17b-4c9e-4e22-b9a7-f10a79c3886c",
-      "width": 64,
-      "x": 960,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3eb7b0dc-0ce4-496c-93b7-703cc8c697f4",
-      "width": 64,
-      "x": 1024,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "f8229b03-9d2b-481a-ada1-e68b190c2f1a",
-      "width": 64,
-      "x": 1088,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 64,
-      "layer": "",
-      "name": "snapPoint",
-      "persistentUuid": "3b823c4f-efdf-4eb4-be2c-ae2ec1830e21",
-      "width": 64,
-      "x": 1152,
-      "y": 1344,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
@@ -2806,7 +214,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "User Interface",
       "name": "endDayButton",
       "persistentUuid": "6760f8ff-2b2c-4746-b2af-ba8efa983b39",
       "width": 0,
@@ -2821,7 +229,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "User Interface",
       "name": "pointText",
       "persistentUuid": "498d3746-c8ae-4784-bc1d-bb2879df3c7e",
       "width": 0,
@@ -2836,7 +244,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "User Interface",
       "name": "selectText",
       "persistentUuid": "57b30ae2-5016-421a-82d9-2db82491cd98",
       "width": 0,
@@ -2851,7 +259,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "User Interface",
       "name": "dayText",
       "persistentUuid": "5e8220d9-bcc7-4748-ac53-ea27ad5cf7b6",
       "width": 0,
@@ -2864,615 +272,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "a2b1def3-2565-4ca2-8b4e-04465203962f",
-      "width": 0,
-      "x": 160,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "b926aaac-5d2d-4639-89b3-ba84cd8af18f",
-      "width": 0,
-      "x": 32,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "146fd7cf-ec9c-4110-940b-ea852e0a027e",
-      "width": 0,
-      "x": 32,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "f6b4d4bd-d6c8-4d5b-aee8-90005fb7dbb6",
-      "width": 0,
-      "x": 160,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "516b73e0-4500-43c6-b99e-9e284c260a4b",
-      "width": 0,
-      "x": 288,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "efae3488-07cb-4cfc-aa08-0de14c6d7742",
-      "width": 0,
-      "x": 288,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "e153f7a9-deea-4fc6-b9e2-db402576c0ba",
-      "width": 0,
-      "x": 416,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "ab913417-3065-4ad3-95aa-255c76c9b9db",
-      "width": 0,
-      "x": 416,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "dc01b113-2b1d-4d4d-9836-6e6460c2f8a0",
-      "width": 0,
-      "x": 544,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "d19fd5b0-ba3a-4371-b0cf-c3eb3365624c",
-      "width": 0,
-      "x": 672,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "c095bf64-d559-46f5-b1da-9bd5d99672a9",
-      "width": 0,
-      "x": 800,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "13b76e77-6c72-482f-b443-6ba915270b19",
-      "width": 0,
-      "x": 928,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "36f0f143-f81a-49e0-94b1-f5b5a27725a0",
-      "width": 0,
-      "x": 1056,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "017f48de-414e-4b2d-b450-e9601d5b317f",
-      "width": 0,
-      "x": 1184,
-      "y": 576,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "3ffebf38-2f03-4a1a-bbb0-93556ffbe8d4",
-      "width": 0,
-      "x": 544,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "0ac5c681-628b-44f9-a81f-1e851b0616a8",
-      "width": 0,
-      "x": 672,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "748ab046-8b62-4f8a-be7f-4f628926d485",
-      "width": 0,
-      "x": 800,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "de2feeb5-2c72-46c8-8758-04960a02a912",
-      "width": 0,
-      "x": 928,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "4e846259-aae5-4ee8-bc26-70d8dc5cefa9",
-      "width": 0,
-      "x": 1056,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "c4d641b2-5e87-4004-8f41-7752e2a65ebd",
-      "width": 0,
-      "x": 1184,
-      "y": 448,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "087aff9f-212c-4faf-95e0-9293bbe80cb9",
-      "width": 0,
-      "x": 32,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "054b06d8-d5d3-4c77-93a2-3ceeab7530f5",
-      "width": 0,
-      "x": 160,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "7bfb1ece-dd6c-4b21-868c-0e577d9ebbd4",
-      "width": 0,
-      "x": 32,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "7b82f7cb-99a8-4e23-9bc9-c03fcb35d37c",
-      "width": 0,
-      "x": 416,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "6229bddd-1041-4209-a170-5080893cadd5",
-      "width": 0,
-      "x": 544,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "18873123-d784-4cbe-b7d2-9c00f709eae8",
-      "width": 0,
-      "x": 672,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "16517142-e0c6-424d-be35-1bb5ade7fd3a",
-      "width": 0,
-      "x": 800,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "e17e89af-e74c-4e80-8b0c-5814a327540f",
-      "width": 0,
-      "x": 928,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 128,
+      "height": 608,
       "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "1f10accd-b6c6-4e41-a3c8-e398cd9fa1b4",
-      "width": 128,
-      "x": 1056,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "7cac605b-13e2-4b43-8c1f-d37077bfc8fb",
-      "width": 0,
-      "x": 1184,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "cd8f10ad-5d80-4342-9b79-aa8b27057464",
-      "width": 0,
-      "x": 288,
-      "y": 320,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "04796640-2e35-4698-ae86-3f581ba6403e",
-      "width": 0,
-      "x": 160,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "206e4cb1-389d-42cd-9b0f-f70521c26cb3",
-      "width": 0,
-      "x": 416,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "7be2ea42-23d4-4b2c-acfc-d2c4e4a752ed",
-      "width": 0,
-      "x": 288,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "f05cf63e-78c1-41ea-8200-fca4575acf04",
-      "width": 0,
-      "x": 544,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "10b3d1a0-808e-4e52-993d-dc4f89e7aace",
-      "width": 0,
-      "x": 672,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "5c4181f9-7e02-434b-9fbe-cf6a1a00ab74",
-      "width": 0,
-      "x": 800,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "fd6dc743-f76a-4963-8e03-9ac1e39d5d91",
-      "width": 0,
-      "x": 928,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "9853fde0-4b39-4ded-8d5e-ff1ed1bfa000",
-      "width": 0,
-      "x": 1056,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "2553e920-4b5c-4961-bc38-6716af68e7eb",
-      "width": 0,
-      "x": 1184,
-      "y": 192,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "59325467-1cd4-446e-9f6d-f328644e787c",
-      "width": 0,
+      "name": "ground",
+      "persistentUuid": "b83db668-bdac-4d22-8bf8-75c36dc2566f",
+      "width": 1216,
       "x": 32,
-      "y": 64,
+      "y": 96,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -3482,133 +290,13 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "5dab3298-cc38-4391-953a-d5a72a9602ba",
+      "layer": "User Interface",
+      "name": "creditsText",
+      "persistentUuid": "ca99369b-a67c-4b12-9551-a403677d441c",
       "width": 0,
-      "x": 160,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "39874aa3-f330-4735-b283-170ce8832d89",
-      "width": 0,
-      "x": 288,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "f2801987-0cdf-48f7-a395-8c35311e8bdc",
-      "width": 0,
-      "x": 416,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "f4ce8e0b-caf5-444e-bbd9-6853d90a5e01",
-      "width": 0,
-      "x": 544,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "1b2ac69c-aea3-4126-9155-743734c17f3c",
-      "width": 0,
-      "x": 672,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "f9f8b81e-24a1-4eb5-b2de-b11ee1cca4e6",
-      "width": 0,
-      "x": 800,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "bd2df7e0-0833-46d6-90da-0bb24e0c27d7",
-      "width": 0,
-      "x": 928,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "1def614e-4176-43dd-9800-8883aa3733db",
-      "width": 0,
-      "x": 1056,
-      "y": 64,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Ground3",
-      "persistentUuid": "60373994-0f0e-4034-9a76-4142828bbc6a",
-      "width": 0,
-      "x": 1184,
-      "y": 64,
-      "zOrder": 0,
+      "x": -736,
+      "y": 544,
+      "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3986,17 +674,6 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "snapPoint",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": []
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -4620,17 +1297,6 @@
       }
     },
     {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "collider",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": []
-    },
-    {
       "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
       "name": "endDayButton",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -4837,26 +1503,1532 @@
       }
     },
     {
-      "assetStoreId": "527f1ebb0b788a709d10bd09428ee9249eb12cff04514d868b4760a036deeb95",
-      "height": 128,
-      "name": "Ground2",
-      "texture": "tiled_Ground2.png",
+      "assetStoreId": "",
+      "height": 32,
+      "name": "ground",
+      "texture": "tiled_Ground3.png",
       "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
+      "width": 32,
       "variables": [],
       "effects": [],
       "behaviors": []
     },
     {
-      "assetStoreId": "35507a1d1a568a8718460a19cfef629dbe33b556983f0abe2859824d211b668e",
-      "height": 128,
-      "name": "Ground3",
-      "texture": "tiled_Ground3.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "creditsText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [],
+      "string": "GDevelop\n",
+      "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+      "textAlignment": "left",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "GDevelop\n",
+        "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+        "textAlignment": "left",
+        "characterSize": 60,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ef6ea49b9ec3d349c79b2137258f07555603edafd64c5ca06a10efe8119d32e3",
+      "name": "FemaleCharacter2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Walking Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Female Character 2_Walking Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ed67ad30a2375eeca872dae8b80a2e6c0b58beb617debc5da91737a15b81af99",
+      "name": "MaleCharacter10",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Walking Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 10_Walking Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "f979443c9f4c0dcc2e3cacea0196c02a0a91d1fde9412f5375f54a5af1691bac",
+      "name": "MaleCharacter5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Walking Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 5_Walking Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 2
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -4866,13 +3038,7 @@
         "objectName": "survivor"
       },
       {
-        "objectName": "collider"
-      },
-      {
         "objectName": "engineer"
-      },
-      {
-        "objectName": "snapPoint"
       },
       {
         "objectName": "Wall"
@@ -4897,6 +3063,9 @@
       },
       {
         "objectName": "materialsText"
+      },
+      {
+        "objectName": "creditsText"
       },
       {
         "folderName": "button",
@@ -4925,10 +3094,16 @@
         "objectName": "endDayButton"
       },
       {
-        "objectName": "Ground2"
+        "objectName": "ground"
       },
       {
-        "objectName": "Ground3"
+        "objectName": "FemaleCharacter2"
+      },
+      {
+        "objectName": "MaleCharacter10"
+      },
+      {
+        "objectName": "MaleCharacter5"
       }
     ]
   },
@@ -4982,23 +3157,10 @@
           },
           "parameters": [
             "",
-            "Powerup 2.wav",
-            "",
-            "",
-            "20",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusicCanal"
-          },
-          "parameters": [
-            "",
             "videogamemusic.mp3",
             "",
             "yes",
-            "30",
+            "10",
             ""
           ]
         }
@@ -5115,79 +3277,13 @@
                   "parameters": []
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "collider"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "collider",
-                    "50",
-                    "50",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "collider",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "LinkedObjects::LinkObjects"
-                  },
-                  "parameters": [
-                    "",
-                    "objects",
-                    "collider"
-                  ]
-                }
-              ]
+              "actions": []
             },
             {
               "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "LinkedObjects::PickObjectsLinkedTo"
-                  },
-                  "parameters": [
-                    "",
-                    "collider",
-                    "objects",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "collider",
-                    "=",
-                    "objects.X()",
-                    "=",
-                    "objects.Y()"
-                  ]
-                }
-              ]
+              "conditions": [],
+              "actions": []
             }
           ]
         }
@@ -5295,6 +3391,18 @@
                         "\"Select\"",
                         "yes"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "Powerup 2.wav",
+                        "",
+                        "1",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -5375,6 +3483,18 @@
                         "Effect",
                         "\"Select\"",
                         "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "Powerup 2.wav",
+                        "",
+                        "1",
+                        "-1"
                       ]
                     }
                   ]
