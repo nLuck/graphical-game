@@ -1423,12 +1423,515 @@
         "metadata": "",
         "name": "Powerup 2.wav",
         "preloadAsMusic": false,
-        "preloadAsSound": false,
+        "preloadAsSound": true,
         "preloadInCache": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/1156bb1be6d34b72751ad1447e05472b7f5cf930282335244b0d2d0b2bd7b5d1_Female Character 2_Walking Down_1.png",
+          "name": "Female Character 2_Walking Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/9b50ed8532c56830d60855d4257dc72f2b144c3601849ec3a4e87b1f59969e6a_Female Character 2_Walking Down_2.png",
+          "name": "Female Character 2_Walking Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/07979a6e98544af23b35dc208f8381d4c9785546e80fd0b88a777fc4786cbb19_Female Character 2_Walking Down_3.png",
+          "name": "Female Character 2_Walking Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/a1d7103ef824fb049b14be47978bff675ff055c1fbaade2e47d8f860e03cd621_Female Character 2_Walking Left_1.png",
+          "name": "Female Character 2_Walking Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/55d2109624c92c491601423235645d444bd9c553e6cca8a40c5bb5e39dfd057d_Female Character 2_Walking Left_2.png",
+          "name": "Female Character 2_Walking Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/90029fbb80cb86d302fa554ef94d0ea4302280e7ba26d51b5636e13e2ecf062d_Female Character 2_Walking Left_3.png",
+          "name": "Female Character 2_Walking Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/4a75c81bc8ad876e5bc498ede2d26877fdb4d3537a5f97f503faf31ff9630216_Female Character 2_Walking Right_1.png",
+          "name": "Female Character 2_Walking Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/5a26c7e7ab09dd3f5061f5c181400afb9d35d681dc19804fa3a025753c9cbf50_Female Character 2_Walking Right_2.png",
+          "name": "Female Character 2_Walking Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/e0773ae42d778c121de43af7c4c8d3ca109f6e0b00f06c152d664414cbdf7578_Female Character 2_Walking Right_3.png",
+          "name": "Female Character 2_Walking Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/3649566b529b81a8c72ba7f200a30a444075b78adba9862d71eea5d3ae6e3e16_Female Character 2_Walking Up_1.png",
+          "name": "Female Character 2_Walking Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/321bf7dbde96a192b049608f304c4e8fd028c8dded1d6b687c63c453a576a08c_Female Character 2_Walking Up_2.png",
+          "name": "Female Character 2_Walking Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Female Character 2_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/1a6601515a434fdd5960143476fe936aca7cc2465f12337d95c11af6b7f5f2a4_Female Character 2_Walking Up_3.png",
+          "name": "Female Character 2_Walking Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Female Character 2_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Female Character 2_Walking Down_1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Female Character 2_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Female Character 2_Walking Down_2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/006a5b8e63850f2086e5155d2f983d30ea309c6f07967c74eea21b6aa803c6f4_Male Character 10_Walking Down_1.png",
+          "name": "Male Character 10_Walking Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/f00720e7299b4f2533fba5ed6725d871513ed3090e00baf51ed45a380a964243_Male Character 10_Walking Down_2.png",
+          "name": "Male Character 10_Walking Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/910f5ef2d49eba6b8e582631a069dbec707a3f661c3850aa15cddf5031f08b68_Male Character 10_Walking Down_3.png",
+          "name": "Male Character 10_Walking Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/b1f39416e199570811f71b85b7d15a7a5436ccc12a732f74f01eadc07aed79cc_Male Character 10_Walking Left_1.png",
+          "name": "Male Character 10_Walking Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/3abfb741c9646e87dbcc99852874ab2f64d32f5cccd605131af02ba2ba7863a9_Male Character 10_Walking Left_2.png",
+          "name": "Male Character 10_Walking Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/4e6a8ea00a8179bf5201cf95f6fa3ab99711d29dadab075f8d09342979d82f58_Male Character 10_Walking Left_3.png",
+          "name": "Male Character 10_Walking Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/7859a4f58894433c8b791bfcd6c989cce560e28c3fdd188b447515358ef31a13_Male Character 10_Walking Right_1.png",
+          "name": "Male Character 10_Walking Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/630d8fac50439492d86b3e342c9eb5263ad9d78cf255863cd42449a079ccbc0e_Male Character 10_Walking Right_2.png",
+          "name": "Male Character 10_Walking Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/c013adbaf039d649bad29586c10a07b5d6def288d6ccf43bd41d55a24642eb71_Male Character 10_Walking Right_3.png",
+          "name": "Male Character 10_Walking Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/c42e85ef16fcf3296fcc1a896e37af9f44a264a865f5a51388fd2f226ddb23d9_Male Character 10_Walking Up_1.png",
+          "name": "Male Character 10_Walking Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/48a5b768e07959b91cd2c8ef4fb431136e590fc2ac95c113f96e541e97f142f8_Male Character 10_Walking Up_2.png",
+          "name": "Male Character 10_Walking Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 10_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/520f1586bfddfc1afaf0213705de105b5731dba5aef35de77a025d2ecea56b40_Male Character 10_Walking Up_3.png",
+          "name": "Male Character 10_Walking Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/194ef9ce0c994e77fd4a354b2067612aef66c93d09be4247f2ff8c3f7a98d2fa_Male Character 5_Walking Down_1.png",
+          "name": "Male Character 5_Walking Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/8e71844906d8858303731d7968165d4c190a586e5655ec86e61dc041702cf7e8_Male Character 5_Walking Down_2.png",
+          "name": "Male Character 5_Walking Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/cf65c54068978d939ea0500dad19f6dc9d50a2af6bcd09ea2eff05cd8a973820_Male Character 5_Walking Down_3.png",
+          "name": "Male Character 5_Walking Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/3ad5fe38a649daaddf999d7a0b1e35745342fffacee758c7628e6bd107f86388_Male Character 5_Walking Left_1.png",
+          "name": "Male Character 5_Walking Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/12333bad3bf687596d71fc997e44a1d774408a23084bf5f45b5a17eca1159de0_Male Character 5_Walking Left_2.png",
+          "name": "Male Character 5_Walking Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/5a07de603e7d02b4be9b953088d6bbd62b5de6d57d0b2d06dcac529dbbced690_Male Character 5_Walking Left_3.png",
+          "name": "Male Character 5_Walking Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/41bbd5d9f4a708a0d2360b4e0a893fd7d813354b38e110db052bd796203e0cda_Male Character 5_Walking Right_1.png",
+          "name": "Male Character 5_Walking Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/b70fbcf4d763171dbf151a6a9b5058b13f499af1d7f33760a4ccc29759b5150b_Male Character 5_Walking Right_2.png",
+          "name": "Male Character 5_Walking Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/75609b9374502f975a292e89498f6dfd9ce564fe40facd439182f8b2725cd0c4_Male Character 5_Walking Right_3.png",
+          "name": "Male Character 5_Walking Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/fb6b12528083e8da345fcb75574d2b07f180707577f39f1c14750f769749d017_Male Character 5_Walking Up_1.png",
+          "name": "Male Character 5_Walking Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/ab4532d6ae478beb884129848837a24e20e6e7f1b8f5572c6d64d5f5b721c5e7_Male Character 5_Walking Up_2.png",
+          "name": "Male Character 5_Walking Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 5_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/d532129e8fa397d11dfd750a092df1945d5ddd921ea7a1a2259b571b2a91a48f_Male Character 5_Walking Up_3.png",
+          "name": "Male Character 5_Walking Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Male Character 10_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
         "file": "assets/tiled_Ground3.png",
         "kind": "image",
         "metadata": "",
