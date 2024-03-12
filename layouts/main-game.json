@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "main",
-  "name": "main",
+  "mangledName": "main_32game",
+  "name": "main game",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.5653158055126349,
+    "zoomFactor": 0.49508400737489244,
     "windowMask": false
   },
   "objectsGroups": [
@@ -39,6 +39,29 @@
         },
         {
           "name": "s_engineer"
+        }
+      ]
+    },
+    {
+      "name": "pauseMenu",
+      "objects": [
+        {
+          "name": "pauseText"
+        },
+        {
+          "name": "resumeButton"
+        },
+        {
+          "name": "restartButton"
+        },
+        {
+          "name": "optionsButton"
+        },
+        {
+          "name": "exitButton"
+        },
+        {
+          "name": "darkOverlay"
         }
       ]
     }
@@ -105,6 +128,7 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "statText",
       "persistentUuid": "9894bc72-55c2-4da2-8a2c-d8cdf03fe493",
       "width": 0,
@@ -120,6 +144,7 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "foodText",
       "persistentUuid": "c22ee99e-000e-40e2-8277-5cc1fa137f91",
       "width": 0,
@@ -135,10 +160,11 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "materialsText",
       "persistentUuid": "196f3946-d063-470a-8a3c-8d2a13274f33",
       "width": 0,
-      "x": 256,
+      "x": 384,
       "y": 18,
       "zOrder": 2,
       "numberProperties": [],
@@ -218,11 +244,12 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "connectButton",
       "persistentUuid": "5f7ddbf8-be97-47c6-8e4f-8f57df641042",
       "width": 0,
-      "x": 512,
-      "y": 640,
+      "x": 544,
+      "y": 624,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -233,10 +260,11 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "endDayButton",
       "persistentUuid": "6760f8ff-2b2c-4746-b2af-ba8efa983b39",
       "width": 0,
-      "x": 1024,
+      "x": 1056,
       "y": 18,
       "zOrder": 2,
       "numberProperties": [],
@@ -278,10 +306,11 @@
       "customSize": false,
       "height": 0,
       "layer": "User Interface",
+      "locked": true,
       "name": "dayText",
       "persistentUuid": "5e8220d9-bcc7-4748-ac53-ea27ad5cf7b6",
       "width": 0,
-      "x": 608,
+      "x": 864,
       "y": 18,
       "zOrder": 2,
       "numberProperties": [],
@@ -523,7 +552,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Food: 0",
+      "string": "Food: 0 | 100",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -546,7 +575,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Food: 0",
+        "text": "Food: 0 | 100",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -564,7 +593,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Materials: 0",
+      "string": "Materials: 0 | 200",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -587,7 +616,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Materials: 0",
+        "text": "Materials: 0 | 200",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -2431,6 +2460,47 @@
           "width": 192
         }
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "pauseText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "GAME PAUSED",
+      "font": "mononoki-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 5,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "GAME PAUSED",
+        "font": "mononoki-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2460,6 +2530,9 @@
       {
         "folderName": "Pause Menu",
         "children": [
+          {
+            "objectName": "pauseText"
+          },
           {
             "objectName": "resumeButton"
           },
@@ -2556,6 +2629,26 @@
             "DayCounter",
             "=",
             "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "Food",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "Materials",
+            "=",
+            "0"
           ]
         },
         {
@@ -3828,7 +3921,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "end day button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3943,10 +4035,10 @@
                         "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                       },
                       "parameters": [
-                        "materialsText",
+                        "foodText",
                         "Text",
                         "=",
-                        "\"Materials: \" + ToString(GlobalVariable(Materials))"
+                        "\"Food: \" + ToString(GlobalVariable(Food)) + \" | \" + ToString(GlobalVariable(goalFood))"
                       ]
                     },
                     {
@@ -3954,10 +4046,21 @@
                         "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                       },
                       "parameters": [
-                        "foodText",
+                        "materialsText",
                         "Text",
                         "=",
-                        "\"Food: \" + ToString(GlobalVariable(Food))"
+                        "\"Materials: \" + ToString(GlobalVariable(Materials)) + \" | \" + ToString(GlobalVariable(goalMaterials))"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "dayText",
+                        "Text",
+                        "=",
+                        "\"Day: \" + ToString(GlobalVariable(DayCounter))"
                       ]
                     }
                   ]
@@ -4114,6 +4217,90 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
+      "name": "goal condition checking",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "DayCounter",
+                ">",
+                "10"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Food",
+                    ">=",
+                    "goalFood"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Materials",
+                    ">=",
+                    "goalMaterials"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "winGame",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"end scene\"",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
       "name": "pause menu",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4197,6 +4384,113 @@
                     },
                     {
                       "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "pauseText",
+                        "0",
+                        "140",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "resumeButton",
+                        "0",
+                        "224",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "restartButton",
+                        "0",
+                        "320",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "optionsButton",
+                        "0",
+                        "416",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "exitButton",
+                        "0",
+                        "512",
+                        "\"Pause Menu\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "pauseMenu",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangePlan"
+                          },
+                          "parameters": [
+                            "pauseMenu",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetCenterX"
+                          },
+                          "parameters": [
+                            "pauseMenu",
+                            "=",
+                            "SceneWindowWidth()/2"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "darkOverlay",
+                        "=",
+                        "0",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "OpacityCapability::OpacityBehavior::SetValue"
                       },
                       "parameters": [
@@ -4248,14 +4542,23 @@
                     "",
                     "1"
                   ]
-                },
+                }
+              ],
+              "events": [
                 {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "darkOverlay",
-                    ""
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "pauseMenu",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "pauseMenu",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -4274,7 +4577,7 @@
                 "darkOverlay",
                 "Resizable",
                 "=",
-                "ScreenWidth()"
+                "SceneWindowWidth()"
               ]
             },
             {
@@ -4285,7 +4588,174 @@
                 "darkOverlay",
                 "Resizable",
                 "=",
-                "ScreenHeight()"
+                "SceneWindowHeight()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "resume button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "resumeButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "isPaused",
+                "False"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "pauseMenu",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "pauseMenu",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "restart button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "restartButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"main game\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "optoins button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "optionsButton",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "exit button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "exitButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"main menu\"",
+                ""
               ]
             }
           ]
@@ -4294,93 +4764,77 @@
       "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "snap to grid 32x32"
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "just things",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
-          "type": {
-            "value": "SnapToGrid::SnapObjectToVirtualGrid"
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
           },
-          "parameters": [
-            "",
-            "objects",
-            "32",
-            "32",
-            "0",
-            "0",
-            ""
+          "comment": "snap to grid 32x32"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SnapToGrid::SnapObjectToVirtualGrid"
+              },
+              "parameters": [
+                "",
+                "objects",
+                "32",
+                "32",
+                "0",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "make sure number of things selected can't go over 2 or below 0"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "numSelected",
+                "=",
+                "clamp(numSelected, 0, 2)"
+              ]
+            }
           ]
         }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "make sure number of things selected can't go over 2 or below 0"
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "ModVarScene"
-          },
-          "parameters": [
-            "numSelected",
-            "=",
-            "clamp(numSelected, 0, 2)"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "see global variable for \"dayCounter\""
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-          },
-          "parameters": [
-            "dayText",
-            "Text",
-            "=",
-            "\"Day: \" + ToString(GlobalVariable(DayCounter))"
-          ]
-        }
-      ]
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,

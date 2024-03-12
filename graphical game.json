@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "main menu",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -88,7 +88,7 @@
         "alwaysLoaded": false,
         "file": "assets/wall.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/wall.png\"}",
         "name": "wall",
         "smoothed": false,
         "userAdded": true
@@ -1953,6 +1953,55 @@
         "name": "assets\\Male Character 10_Walking Down_1",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 5_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Male Character 5_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Male Character 5_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Male Character 5_Walking Down_1",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Select button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Select button.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Shaded Light/05538b7d8519d4cf9b65e823a39b42e0cb811b4787b6fca63b0009c14a712ff8_Select button.png",
+          "name": "Select button.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1965,19 +2014,31 @@
   "variables": [
     {
       "folded": true,
+      "name": "winGame",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "goalFood",
+      "type": "number",
+      "value": 150
+    },
+    {
+      "folded": true,
+      "name": "goalMaterials",
+      "type": "number",
+      "value": 250
+    },
+    {
+      "folded": true,
       "name": "DayCounter",
       "type": "number",
-      "value": 0
+      "value": 1
     },
     {
       "folded": true,
       "name": "Food",
-      "type": "number",
-      "value": 0
-    },
-    {
-      "folded": true,
-      "name": "Water",
       "type": "number",
       "value": 0
     },
@@ -1991,7 +2052,15 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/main"
+      "referenceTo": "/layouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-game"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/end-scene"
     }
   ],
   "externalEvents": [],
