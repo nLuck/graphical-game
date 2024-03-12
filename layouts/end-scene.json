@@ -5,7 +5,7 @@
   "name": "end scene",
   "r": 209,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 209,
   "uiSettings": {
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.6897782140104495,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -51,6 +51,36 @@
       "x": 192,
       "y": 285,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "menuButton",
+      "persistentUuid": "b0ff5c26-4191-48cd-952a-32cc2ebb35ba",
+      "width": 0,
+      "x": 384,
+      "y": 544,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "exitButton",
+      "persistentUuid": "e226de9e-9a21-4664-bc3b-8e2b92aba390",
+      "width": 0,
+      "x": 704,
+      "y": 544,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -240,6 +270,172 @@
         "characterSize": 30,
         "color": "255;255;255"
       }
+    },
+    {
+      "assetStoreId": "f23eb31ad33dd63f1937c8745105316ca530c28513c64b68a665975503c852a6",
+      "name": "menuButton",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 6,
+        "BottomPadding": 24,
+        "TopPadding": 20,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Hovered.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Idle.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": true,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Menu",
+          "font": "mononoki-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 26,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Menu",
+            "font": "mononoki-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 26,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Pressed.png",
+          "tiled": true,
+          "topMargin": 22,
+          "width": 192
+        }
+      }
+    },
+    {
+      "assetStoreId": "f23eb31ad33dd63f1937c8745105316ca530c28513c64b68a665975503c852a6",
+      "name": "exitButton",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 6,
+        "BottomPadding": 24,
+        "TopPadding": 20,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Hovered.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Idle.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": true,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Exit",
+          "font": "mononoki-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 26,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Exit",
+            "font": "mononoki-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 26,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "White Decorated Button_Pressed.png",
+          "tiled": true,
+          "topMargin": 22,
+          "width": 192
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -256,6 +452,12 @@
       },
       {
         "objectName": "background"
+      },
+      {
+        "objectName": "menuButton"
+      },
+      {
+        "objectName": "exitButton"
       }
     ]
   },
@@ -273,6 +475,19 @@
         }
       ],
       "actions": [
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "videogamemusic.mp3",
+            "1",
+            "yes",
+            "10",
+            ""
+          ]
+        },
         {
           "type": {
             "value": "SetCenter"
@@ -438,6 +653,56 @@
                 "\"You made \" + ToString(GlobalVariable(Food))+ \" units of Food out of the \" + ToString(GlobalVariable(goalFood)) + \" needed.\nYou made \" + ToString(GlobalVariable(Materials))+ \" units of Materials out of the \" + ToString(GlobalVariable(goalMaterials)) + \" needed.\""
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "menuButton",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"main menu\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "exitButton",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Quit"
+          },
+          "parameters": [
+            ""
           ]
         }
       ]

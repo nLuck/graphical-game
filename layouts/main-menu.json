@@ -184,7 +184,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -198,12 +198,12 @@
             "r": 0
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
+            "bold": true,
+            "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 5,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
             "shadowColor": "0;0;0",
@@ -267,7 +267,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -281,12 +281,12 @@
             "r": 0
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
+            "bold": true,
+            "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 5,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
             "shadowColor": "0;0;0",
@@ -350,7 +350,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -364,12 +364,12 @@
             "r": 0
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
+            "bold": true,
+            "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 5,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
             "shadowColor": "0;0;0",
@@ -433,7 +433,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -447,12 +447,12 @@
             "r": 0
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
+            "bold": true,
+            "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 5,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
             "shadowColor": "0;0;0",

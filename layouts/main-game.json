@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.49508400737489244,
+    "zoomFactor": 0.6455105703311529,
     "windowMask": false
   },
   "objectsGroups": [
@@ -62,6 +62,9 @@
         },
         {
           "name": "darkOverlay"
+        },
+        {
+          "name": "tutorialText"
         }
       ]
     }
@@ -362,6 +365,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "questionButton",
+      "persistentUuid": "71ac4d00-b2b0-4810-94ef-e6660186e73f",
+      "width": 0,
+      "x": 1152,
+      "y": 608,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -552,7 +570,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Food: 0 | 100",
+      "string": "Food: 0 | ???",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -575,7 +593,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Food: 0 | 100",
+        "text": "Food: 0 | ???",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -593,7 +611,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Materials: 0 | 200",
+      "string": "Materials: 0 | ???",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -616,7 +634,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Materials: 0 | 200",
+        "text": "Materials: 0 | ???",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -962,7 +980,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -976,7 +994,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -1377,7 +1395,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -1391,7 +1409,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -2166,7 +2184,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -2180,7 +2198,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -2249,7 +2267,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -2263,7 +2281,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -2332,7 +2350,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -2346,7 +2364,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -2415,7 +2433,7 @@
           "width": 192
         },
         "Label": {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -2429,7 +2447,7 @@
             "r": 0
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": true,
             "isShadowEnabled": false,
             "italic": false,
@@ -2501,6 +2519,118 @@
         "characterSize": 40,
         "color": "255;255;255"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "5b90222bca187d2a7703d7135fb1b47363c6ea1b9eeff7014888376a457212be",
+      "name": "questionButton",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Question Key.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 14
+                      },
+                      {
+                        "x": 88,
+                        "y": 14
+                      },
+                      {
+                        "x": 88,
+                        "y": 86
+                      },
+                      {
+                        "x": 12,
+                        "y": 86
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "tutorialText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Left Click to select survivors.\nRight Click to deselect survivors.\nLeft Click and Hold to drag survivors around.\nWhen two survivors are selected, a combine \nbutton will appear, which depending on the\nsurvivors selected, will have different outcomes.\nPress Esc to open the pause menu.\nPress End Day button to end the day, increase day\ncounter by 1, add resources depending on the\nstats of your survivors.\nYou have 10 days to reach the target resources\nto have your haven succeed.",
+      "font": "mononoki-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 26,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 5,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Left Click to select survivors.\nRight Click to deselect survivors.\nLeft Click and Hold to drag survivors around.\nWhen two survivors are selected, a combine \nbutton will appear, which depending on the\nsurvivors selected, will have different outcomes.\nPress Esc to open the pause menu.\nPress End Day button to end the day, increase day\ncounter by 1, add resources depending on the\nstats of your survivors.\nYou have 10 days to reach the target resources\nto have your haven succeed.",
+        "font": "mononoki-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 26,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2544,6 +2674,12 @@
           },
           {
             "objectName": "exitButton"
+          },
+          {
+            "objectName": "questionButton"
+          },
+          {
+            "objectName": "tutorialText"
           },
           {
             "objectName": "darkOverlay"
@@ -2795,6 +2931,142 @@
                 "objects",
                 "=",
                 "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "show tutorial at start"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "darkOverlay",
+                "0",
+                "0",
+                "\"Pause Menu\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "tutorialText",
+                "288",
+                "123",
+                "\"Pause Menu\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "resumeButton",
+                "544",
+                "544",
+                "\"Pause Menu\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "pauseMenu",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "pauseMenu",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenterX"
+                  },
+                  "parameters": [
+                    "pauseMenu",
+                    "=",
+                    "SceneWindowWidth()/2"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "darkOverlay",
+                "=",
+                "0",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "darkOverlay",
+                "Opacity",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "darkOverlay",
+                "=",
+                "0"
               ]
             }
           ]
@@ -3375,7 +3647,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "connect button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3921,6 +4192,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "end day button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4066,6 +4338,18 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "spawn farmer every day"
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -4089,6 +4373,18 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "spawn scientist every 3 days"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -4759,6 +5055,189 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "tutorial button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "questionButton",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "isPaused",
+                "True"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "isPaused",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "0"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "darkOverlay",
+                        "0",
+                        "0",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "tutorialText",
+                        "288",
+                        "123",
+                        "\"Pause Menu\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "resumeButton",
+                        "544",
+                        "544",
+                        "\"Pause Menu\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "pauseMenu",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangePlan"
+                          },
+                          "parameters": [
+                            "pauseMenu",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetCenterX"
+                          },
+                          "parameters": [
+                            "pauseMenu",
+                            "=",
+                            "SceneWindowWidth()/2"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "darkOverlay",
+                        "=",
+                        "0",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "darkOverlay",
+                        "Opacity",
+                        "=",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "darkOverlay",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -5077,6 +5556,10 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",
