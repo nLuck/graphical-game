@@ -344,8 +344,8 @@
       "name": "creditsText",
       "persistentUuid": "c78eb2e7-1d90-42de-8aa2-393ecf5cff21",
       "width": 0,
-      "x": -732,
-      "y": 420,
+      "x": -966,
+      "y": 360,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -570,7 +570,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Food: 0 | ???",
+      "string": "Food: 0 | 150",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -593,7 +593,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Food: 0 | ???",
+        "text": "Food: 0 | 150",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -611,7 +611,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Materials: 0 | ???",
+      "string": "Materials: 0 | 250",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -634,7 +634,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Materials: 0 | ???",
+        "text": "Materials: 0 | 250",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -1586,8 +1586,8 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "GDevelop\nfleurman\nKenney",
-      "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+      "string": "GDevelop\nfleurman\nKenney\nNicolae (Xelu) Berbece",
+      "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 60,
       "color": {
@@ -1609,8 +1609,8 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "GDevelop\nfleurman\nKenney",
-        "font": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+        "text": "GDevelop\nfleurman\nKenney\nNicolae (Xelu) Berbece",
+        "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 60,
         "color": "0;0;0"
@@ -4206,7 +4206,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "end day button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4388,14 +4387,113 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "Create"
+                        "value": "ModVarScene"
                       },
                       "parameters": [
-                        "",
-                        "farmer",
-                        "RandomInRange(64, 1152)",
-                        "RandomInRange(96, 640)",
-                        ""
+                        "roll",
+                        "=",
+                        "RandomInRange(1, 3)"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "roll",
+                            "=",
+                            "1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "farmer",
+                            "RandomInRange(64, 1152)",
+                            "RandomInRange(96, 640)",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "roll",
+                            "=",
+                            "2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "engineer",
+                            "RandomInRange(64, 1152)",
+                            "RandomInRange(96, 640)",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "roll",
+                            "=",
+                            "3"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "farmer",
+                            "RandomInRange(64, 1152)",
+                            "RandomInRange(96, 640)",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "engineer",
+                            "RandomInRange(64, 1152)",
+                            "RandomInRange(96, 640)",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -4420,7 +4518,7 @@
                         "value": "BuiltinCommonInstructions::CompareNumbers"
                       },
                       "parameters": [
-                        "mod(DayCounter, 3)",
+                        "mod(DayCounter, 2)",
                         "=",
                         "0"
                       ]
@@ -4458,6 +4556,16 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "roll",
+                        "=",
+                        "0"
+                      ]
+                    },
                     {
                       "type": {
                         "value": "ModVarScene"
