@@ -3647,6 +3647,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "connect button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3730,7 +3731,20 @@
                   ]
                 }
               ],
-              "actions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "click-for-game-menu-131903.mp3",
+                    "",
+                    "3",
+                    "1"
+                  ]
+                }
+              ],
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -4234,6 +4248,18 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "click-for-game-menu-131903.mp3",
+                    "",
+                    "3",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
@@ -4596,7 +4622,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "pause menu",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4932,6 +4957,18 @@
                 "isPaused",
                 "False"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "click-for-game-menu-131903.mp3",
+                "",
+                "3",
+                "1"
+              ]
             }
           ],
           "events": [
@@ -4988,6 +5025,18 @@
                 "\"main game\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "click-for-game-menu-131903.mp3",
+                "",
+                "3",
+                "1"
+              ]
             }
           ]
         },
@@ -5016,7 +5065,20 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "click-for-game-menu-131903.mp3",
+                "",
+                "3",
+                "1"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -5052,6 +5114,18 @@
                 "",
                 "\"main menu\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "click-for-game-menu-131903.mp3",
+                "",
+                "3",
+                "1"
               ]
             }
           ]
@@ -5090,6 +5164,18 @@
               "parameters": [
                 "isPaused",
                 "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "click-for-game-menu-131903.mp3",
+                "",
+                "3",
+                "1"
               ]
             }
           ],

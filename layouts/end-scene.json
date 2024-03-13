@@ -680,6 +680,18 @@
             "\"main menu\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "click-for-game-menu-131903.mp3",
+            "",
+            "3",
+            "1"
+          ]
         }
       ]
     },
@@ -703,6 +715,18 @@
           },
           "parameters": [
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "click-for-game-menu-131903.mp3",
+            "",
+            "3",
+            "1"
           ]
         }
       ]

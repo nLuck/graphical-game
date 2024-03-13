@@ -2015,6 +2015,26 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Keyboard/Light/57f4dbf3a079de77c8db891437a5f7292509a665d0256cc5a5864e46ee36833b_Question Key.png",
           "name": "Question Key.png"
         }
+      },
+      {
+        "file": "victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
+        "preloadAsMusic": true,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "click-for-game-menu-131903.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "click-for-game-menu-131903.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": true,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
