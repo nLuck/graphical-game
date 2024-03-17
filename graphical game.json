@@ -2064,13 +2064,13 @@
       "folded": true,
       "name": "goalFood",
       "type": "number",
-      "value": 150
+      "value": 200
     },
     {
       "folded": true,
       "name": "goalMaterials",
       "type": "number",
-      "value": 250
+      "value": 500
     },
     {
       "folded": true,

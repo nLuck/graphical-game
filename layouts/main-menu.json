@@ -96,28 +96,11 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "locked": true,
-      "name": "optionsButton",
-      "persistentUuid": "6a9d9521-be53-4f4e-badf-416f90a79c7c",
-      "width": 0,
-      "x": 544,
-      "y": 384,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "locked": true,
       "name": "exitGameButton",
       "persistentUuid": "6fbbb826-90df-4921-9565-e6941397cc6e",
       "width": 0,
       "x": 544,
-      "y": 576,
+      "y": 544,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -128,12 +111,11 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "locked": true,
       "name": "creditsButton",
       "persistentUuid": "00f7cefd-4bd3-43c6-a730-4db36d714e54",
       "width": 0,
       "x": 544,
-      "y": 480,
+      "y": 416,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -525,10 +507,10 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Credits:\n\nGDevelop\nfleurman\nKenney\nNicolae (Xelu) Berbece",
+      "string": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 0,
         "g": 0,
@@ -548,10 +530,10 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Credits:\n\nGDevelop\nfleurman\nKenney\nNicolae (Xelu) Berbece",
+        "text": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "0;0;0"
       }
     },
@@ -1104,18 +1086,6 @@
               },
               "parameters": [
                 "",
-                "optionsButton",
-                "0",
-                "0",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
                 "creditsButton",
                 "0",
                 "0",
@@ -1129,6 +1099,25 @@
               "parameters": [
                 "",
                 "exitGameButton",
+                "0",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "optionsButton",
                 "0",
                 "0",
                 ""
@@ -1192,19 +1181,9 @@
                 "value": "MettreY"
               },
               "parameters": [
-                "optionsButton",
-                "=",
-                "384"
-              ]
-            },
-            {
-              "type": {
-                "value": "MettreY"
-              },
-              "parameters": [
                 "creditsButton",
                 "=",
-                "480"
+                "416"
               ]
             },
             {
@@ -1214,7 +1193,24 @@
               "parameters": [
                 "exitGameButton",
                 "=",
-                "576"
+                "544"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "optionsButton",
+                "=",
+                "384"
               ]
             }
           ]

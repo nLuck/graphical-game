@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.6455105703311529,
+    "zoomFactor": 0.6040838749988915,
     "windowMask": false
   },
   "objectsGroups": [
@@ -570,7 +570,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Food: 0 | 150",
+      "string": "Food: 0 | 200",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -593,7 +593,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Food: 0 | 150",
+        "text": "Food: 0 | 200",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -611,7 +611,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Materials: 0 | 250",
+      "string": "Materials: 0 | 500",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -634,7 +634,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Materials: 0 | 250",
+        "text": "Materials: 0 | 500",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -3078,7 +3078,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "select and deselect",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3502,7 +3501,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "click nad drag objects",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3647,7 +3645,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "connect button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4647,7 +4644,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "goal condition checking",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4843,19 +4839,7 @@
                         "",
                         "restartButton",
                         "0",
-                        "320",
-                        "\"Pause Menu\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "optionsButton",
-                        "0",
-                        "416",
+                        "352",
                         "\"Pause Menu\""
                       ]
                     },
@@ -4867,7 +4851,7 @@
                         "",
                         "exitButton",
                         "0",
-                        "512",
+                        "480",
                         "\"Pause Menu\""
                       ]
                     }
@@ -4898,6 +4882,25 @@
                             "SceneWindowWidth()/2"
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "disabled": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "optionsButton",
+                        "0",
+                        "416",
+                        "\"Pause Menu\""
                       ]
                     }
                   ]
