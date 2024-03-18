@@ -326,6 +326,7 @@
       "depth": 1,
       "height": 608,
       "layer": "",
+      "locked": true,
       "name": "ground",
       "persistentUuid": "b83db668-bdac-4d22-8bf8-75c36dc2566f",
       "width": 1216,
@@ -371,6 +372,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
+      "locked": true,
       "name": "questionButton",
       "persistentUuid": "71ac4d00-b2b0-4810-94ef-e6660186e73f",
       "width": 0,
@@ -5263,6 +5265,15 @@
               "parameters": [
                 "questionButton",
                 "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "isPaused",
                 ""
               ]
             }

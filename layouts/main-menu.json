@@ -55,6 +55,35 @@
           "name": "darkOverlay"
         }
       ]
+    },
+    {
+      "name": "background",
+      "objects": [
+        {
+          "name": "BushForeground"
+        },
+        {
+          "name": "BushBackground"
+        },
+        {
+          "name": "SkyBackground"
+        },
+        {
+          "name": "MountainBackground"
+        },
+        {
+          "name": "NewSprite"
+        },
+        {
+          "name": "NewSprite2"
+        },
+        {
+          "name": "NewSprite3"
+        },
+        {
+          "name": "Dirt1"
+        }
+      ]
     }
   ],
   "variables": [],
@@ -70,7 +99,7 @@
       "width": 0,
       "x": 275.5,
       "y": 100,
-      "zOrder": 1,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -86,6 +115,136 @@
       "width": 0,
       "x": 544,
       "y": 288,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "exitGameButton",
+      "persistentUuid": "6fbbb826-90df-4921-9565-e6941397cc6e",
+      "width": 0,
+      "x": 544,
+      "y": 544,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "creditsButton",
+      "persistentUuid": "00f7cefd-4bd3-43c6-a730-4db36d714e54",
+      "width": 0,
+      "x": 544,
+      "y": 416,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 224,
+      "layer": "Background",
+      "locked": true,
+      "name": "SkyBackground",
+      "persistentUuid": "9f14c34a-42c5-4f32-afd2-f3271a026532",
+      "width": 1280,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "layer": "Background",
+      "locked": true,
+      "name": "MountainBackground",
+      "persistentUuid": "4764e76a-c084-4894-abf0-bdadec4cdb5b",
+      "width": 1344,
+      "x": -32,
+      "y": 160,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 326,
+      "customSize": true,
+      "depth": 1,
+      "height": 160,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "4432c0e9-61f0-44aa-ada1-b9a93ba246e4",
+      "width": 160,
+      "x": 319,
+      "y": 321,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 39,
+      "customSize": true,
+      "depth": 0,
+      "height": 160,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "bbcc865b-4f9e-4e72-bac2-814d96635701",
+      "width": 160,
+      "x": 705,
+      "y": 159,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 131,
+      "customSize": true,
+      "depth": 0,
+      "height": 160,
+      "layer": "",
+      "name": "NewSprite3",
+      "persistentUuid": "3e784c35-d2b0-4466-ae1b-294469b379e2",
+      "width": 160,
+      "x": 735,
+      "y": 479,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "layer": "",
+      "name": "BushBackground",
+      "persistentUuid": "ea102ad1-84a2-48ff-83fb-dfd8d7aaf5e2",
+      "width": 160,
+      "x": 128,
+      "y": 512,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -93,30 +252,64 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 480,
       "layer": "",
-      "name": "exitGameButton",
-      "persistentUuid": "6fbbb826-90df-4921-9565-e6941397cc6e",
-      "width": 0,
-      "x": 544,
-      "y": 544,
-      "zOrder": 4,
+      "name": "Dirt1",
+      "persistentUuid": "479e9927-006c-47b8-a29c-cbeba5048b69",
+      "width": 1280,
+      "x": 0,
+      "y": 256,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
       "layer": "",
-      "name": "creditsButton",
-      "persistentUuid": "00f7cefd-4bd3-43c6-a730-4db36d714e54",
-      "width": 0,
-      "x": 544,
+      "name": "BushBackground",
+      "persistentUuid": "4af32b1b-79d1-462e-86f8-54bcef79b9b2",
+      "width": 160,
+      "x": 1024,
+      "y": 352,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "layer": "",
+      "name": "BushForeground",
+      "persistentUuid": "5877f096-3623-4f27-acae-b7514809b40a",
+      "width": 160,
+      "x": 864,
+      "y": 576,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "layer": "",
+      "name": "BushForeground",
+      "persistentUuid": "629682e6-feb2-4a1e-9f26-bd02e303328a",
+      "width": 160,
+      "x": 288,
       "y": 416,
-      "zOrder": 5,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -507,10 +700,10 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music",
+      "string": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music\npixel-boy for menu background\nwishforge games for menu background",
       "font": "mononoki-Regular.ttf",
       "textAlignment": "center",
-      "characterSize": 50,
+      "characterSize": 40,
       "color": {
         "b": 0,
         "g": 0,
@@ -530,10 +723,10 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music",
+        "text": "Credits:\n\nGDevelop for user interface\nfleurman for character sprites\nCethiel for ground texture\nNicolae (Xelu) Berbece for user interface\npixabay for sounds and music\npixel-boy for menu background\nwishforge games for menu background",
         "font": "mononoki-Regular.ttf",
         "textAlignment": "center",
-        "characterSize": 50,
+        "characterSize": 40,
         "color": "0;0;0"
       }
     },
@@ -680,6 +873,339 @@
           "width": 192
         }
       }
+    },
+    {
+      "assetStoreId": "3a50c8a940670eb3cd63065f30cd104b595ab49fd621a9b6b0b1b91996963f8d",
+      "height": 128,
+      "name": "SkyBackground",
+      "texture": "tiled_Sky Background.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "376237c3c6c6e6cecae4466c5426c7164fc11b68278337da8b05effed2346113",
+      "height": 128,
+      "name": "MountainBackground",
+      "texture": "tiled_Mountain Background.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\assets_Female Character 2_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 4
+                      },
+                      {
+                        "x": 56,
+                        "y": 4
+                      },
+                      {
+                        "x": 56,
+                        "y": 64
+                      },
+                      {
+                        "x": 8,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\assets_Male Character 5_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 56,
+                        "y": 8
+                      },
+                      {
+                        "x": 56,
+                        "y": 64
+                      },
+                      {
+                        "x": 8,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\assets_Male Character 10_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 4
+                      },
+                      {
+                        "x": 56,
+                        "y": 4
+                      },
+                      {
+                        "x": 56,
+                        "y": 64
+                      },
+                      {
+                        "x": 8,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "484010ed702d9025487ae7a9497ff37c073ad17fb859f13446536fa767062a26",
+      "name": "BushBackground",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bush Background.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 43,
+                        "y": 0
+                      },
+                      {
+                        "x": 43,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "4d2d31ff684c8a40b7fa96172550ee022c14aaea173d3ffd1d4a2b67460f7bb3",
+      "height": 128,
+      "name": "Dirt1",
+      "texture": "tiled_Dirt1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "073acace0e46e88aa6459ac18e3b535ce9d7d2767e0ec6ea1cf3fd7b937f75a4",
+      "name": "BushForeground",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bush foreground.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 7
+                      },
+                      {
+                        "x": 46,
+                        "y": 7
+                      },
+                      {
+                        "x": 46,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -711,6 +1237,35 @@
           },
           {
             "objectName": "backButton"
+          }
+        ]
+      },
+      {
+        "folderName": "background",
+        "children": [
+          {
+            "objectName": "BushForeground"
+          },
+          {
+            "objectName": "Dirt1"
+          },
+          {
+            "objectName": "BushBackground"
+          },
+          {
+            "objectName": "NewSprite3"
+          },
+          {
+            "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "MountainBackground"
+          },
+          {
+            "objectName": "SkyBackground"
           }
         ]
       }
@@ -844,6 +1399,14 @@
           "parameters": [
             "mainMenu",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "background"
           ]
         }
       ],
@@ -1047,6 +1610,15 @@
           },
           "parameters": [
             "credits",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "background",
             ""
           ]
         }
@@ -1255,6 +1827,39 @@
     }
   ],
   "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Background",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
     {
       "ambientLightColorB": 200,
       "ambientLightColorG": 200,

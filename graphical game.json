@@ -2044,6 +2044,98 @@
         "name": "NewSprite4",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Sky Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Sky Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Background/1532fe7a8e6c84b7b2547f1b3e9c3430546bd0adc86262971d99897b8ebef730_tiled_Sky Background.png",
+          "name": "tiled_Sky Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Mountain Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Mountain Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Background/09cbcd7820a5bd5869092a8af122db07c9e09465f69f83ccdebd4d122c724f49_tiled_Mountain Background.png",
+          "name": "tiled_Mountain Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Female Character 2_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_Female Character 2_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Male Character 5_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_Male Character 5_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Male Character 10_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_Male Character 10_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bush Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/b23e0c1e6295e32b1c0dd42e7f212466c60c5db35ae9f6c4a3b4622f9b8d10a6_Bush Background.png",
+          "name": "Bush Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Dirt1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Dirt1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/33bc3ce7c2b266c7584e7f0b120e4098a6c90e237e361d99323e02e1c8c50afc_tiled_Dirt1.png",
+          "name": "tiled_Dirt1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bush foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
+          "name": "Bush foreground.png"
+        }
       }
     ],
     "resourceFolders": []
