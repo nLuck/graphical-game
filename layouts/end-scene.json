@@ -481,7 +481,7 @@
           },
           "parameters": [
             "",
-            "videogamemusic.mp3",
+            "assets\\videogamemusic.mp3",
             "1",
             "yes",
             "10",
@@ -687,7 +687,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"
@@ -723,7 +723,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"

@@ -2824,7 +2824,7 @@
           },
           "parameters": [
             "",
-            "videogamemusic.mp3",
+            "assets\\videogamemusic.mp3",
             "1",
             "yes",
             "10",
@@ -3211,7 +3211,7 @@
                           },
                           "parameters": [
                             "",
-                            "Powerup 2.wav",
+                            "assets\\Powerup 2.wav",
                             "",
                             "1",
                             ""
@@ -3316,7 +3316,7 @@
                           },
                           "parameters": [
                             "",
-                            "Powerup 2.wav",
+                            "assets\\Powerup 2.wav",
                             "",
                             "1",
                             "-1"
@@ -3737,7 +3737,7 @@
                   },
                   "parameters": [
                     "",
-                    "click-for-game-menu-131903.mp3",
+                    "assets\\click-for-game-menu-131903.mp3",
                     "",
                     "3",
                     "1"
@@ -4250,7 +4250,7 @@
                   },
                   "parameters": [
                     "",
-                    "click-for-game-menu-131903.mp3",
+                    "assets\\click-for-game-menu-131903.mp3",
                     "",
                     "3",
                     "1"
@@ -5077,7 +5077,7 @@
               },
               "parameters": [
                 "",
-                "click-for-game-menu-131903.mp3",
+                "assets\\click-for-game-menu-131903.mp3",
                 "",
                 "3",
                 "1"
@@ -5145,7 +5145,7 @@
               },
               "parameters": [
                 "",
-                "click-for-game-menu-131903.mp3",
+                "assets\\click-for-game-menu-131903.mp3",
                 "",
                 "3",
                 "1"
@@ -5185,7 +5185,7 @@
               },
               "parameters": [
                 "",
-                "click-for-game-menu-131903.mp3",
+                "assets\\click-for-game-menu-131903.mp3",
                 "",
                 "3",
                 "1"
@@ -5235,7 +5235,7 @@
               },
               "parameters": [
                 "",
-                "click-for-game-menu-131903.mp3",
+                "assets\\click-for-game-menu-131903.mp3",
                 "",
                 "3",
                 "1"
@@ -5294,7 +5294,7 @@
               },
               "parameters": [
                 "",
-                "click-for-game-menu-131903.mp3",
+                "assets\\click-for-game-menu-131903.mp3",
                 "",
                 "3",
                 "1"
@@ -5455,7 +5455,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "just things",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5528,7 +5527,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "used for testing purposes",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

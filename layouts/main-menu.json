@@ -192,6 +192,7 @@
       "depth": 1,
       "height": 160,
       "layer": "",
+      "locked": true,
       "name": "NewSprite",
       "persistentUuid": "4432c0e9-61f0-44aa-ada1-b9a93ba246e4",
       "width": 160,
@@ -208,6 +209,7 @@
       "depth": 0,
       "height": 160,
       "layer": "",
+      "locked": true,
       "name": "NewSprite2",
       "persistentUuid": "bbcc865b-4f9e-4e72-bac2-814d96635701",
       "width": 160,
@@ -224,6 +226,7 @@
       "depth": 0,
       "height": 160,
       "layer": "",
+      "locked": true,
       "name": "NewSprite3",
       "persistentUuid": "3e784c35-d2b0-4466-ae1b-294469b379e2",
       "width": 160,
@@ -240,6 +243,7 @@
       "depth": 1,
       "height": 96,
       "layer": "",
+      "locked": true,
       "name": "BushBackground",
       "persistentUuid": "ea102ad1-84a2-48ff-83fb-dfd8d7aaf5e2",
       "width": 160,
@@ -272,6 +276,7 @@
       "depth": 1,
       "height": 96,
       "layer": "",
+      "locked": true,
       "name": "BushBackground",
       "persistentUuid": "4af32b1b-79d1-462e-86f8-54bcef79b9b2",
       "width": 160,
@@ -288,6 +293,7 @@
       "depth": 1,
       "height": 96,
       "layer": "",
+      "locked": true,
       "name": "BushForeground",
       "persistentUuid": "5877f096-3623-4f27-acae-b7514809b40a",
       "width": 160,
@@ -304,6 +310,7 @@
       "depth": 1,
       "height": 96,
       "layer": "",
+      "locked": true,
       "name": "BushForeground",
       "persistentUuid": "629682e6-feb2-4a1e-9f26-bd02e303328a",
       "width": 160,
@@ -1291,7 +1298,7 @@
           },
           "parameters": [
             "",
-            "victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
+            "assets\\victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
             "1",
             "",
             "10",
@@ -1320,7 +1327,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"
@@ -1358,7 +1365,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"
@@ -1386,7 +1393,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"
@@ -1598,7 +1605,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"
@@ -1809,7 +1816,7 @@
           },
           "parameters": [
             "",
-            "click-for-game-menu-131903.mp3",
+            "assets\\click-for-game-menu-131903.mp3",
             "",
             "3",
             "1"

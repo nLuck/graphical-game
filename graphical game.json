@@ -2136,6 +2136,46 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
           "name": "Bush foreground.png"
         }
+      },
+      {
+        "file": "assets/victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\victory-electronic-video-game-soundtrack-denouement-credits-153944.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/click-for-game-menu-131903.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\click-for-game-menu-131903.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Powerup 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Powerup 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/videogamemusic.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\videogamemusic.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
